@@ -7,6 +7,7 @@ const sessionController = require('../app/controllers/SessionController');
 //ongs
 Routes.post('/ongs', ONGController.store);
 Routes.get('/ongs', ONGController.index);
+Routes.get('/ong/show', ONGController.show);
 
 //incidents
 Routes.get('/incidents', incidentsController.index);
