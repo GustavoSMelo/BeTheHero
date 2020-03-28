@@ -12,7 +12,7 @@ Routes.get('/ongs', ONGController.index);
 Routes.get('/incidents', incidentsController.index);
 Routes.post('/incidents', incidentsController.store);
 Routes.delete('/incidents', incidentsController.destroy);
-Routes.get('/incidents/:id', incidentsController.show);
+Routes.get('/incidents/show', incidentsController.show);
 
 //session
 Routes.post('/login', sessionController.store);
