@@ -31,7 +31,7 @@ module.exports = {
             .offset((page - 1) * 5)
             .limit(5);
 
-        res.header('X-Total-Count', count.length);
+        res.header('totalcount', count.length);
 
         return res.json({ incidents });
     },
