@@ -31,4 +31,14 @@ module.exports = {
 
         return res.json({ ongs });
     },
+
+    async show(req, res) {
+        const { authorization: id } = req.headers;
+
+        const ong = await connection('ONG')
+            .select('*')
+            .where('id', id);
+
+        return res.json(ong);
+    },
 };
