@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/license/GustavoSMelo/BeTheHero?style=for-the-badge)
 ![](https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/Frontend-ReactJS-blue?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/Mobile-React%20Native-9cf?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Mobile-React%20Native-9cf?style=for-the-badge&logo=expo)
 ![](https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge)
 
 # :iphone: Mobile screens:
