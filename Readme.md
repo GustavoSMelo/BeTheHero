@@ -40,30 +40,36 @@ https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge
 
 ## How I Run this project ?
 
-### :floppy_disk: Backend:
+- ### :floppy_disk: Backend:
 
-    - You need to have in your ambient, NodeJS and Yarn(not required but is recommend)
-    - Clone this project
-    - Access the project in terminal (folder backend)
-    - Run npm install (or only yarn if you will use yarn)
-    - And Run npm start (or yarn start)
+  - You need to have in your ambient, NodeJS and Yarn(not required but is
+    recommend)
+  - Clone this project
+  - Access the project in terminal (folder backend)
+  - Run npm install (or only yarn if you will use yarn)
+  - And Run npm start (or yarn start)
 
-### :computer: Frontend:
+- ### :computer: Frontend:
 
-    - You need to do the procediments of backend
-    - after this, access the project in another terminal (folder frontend)
-    - Run npm install (or only yarn if you will use yarn)
-    - And Run npm start (or yarn start)
+  - You need to do the procediments of backend
+  - after this, access the project in another terminal (folder frontend)
+  - Run npm install (or only yarn if you will use yarn)
+  - And Run npm start (or yarn start)
 
-### :iphone: Mobile:
+- ### :iphone: Mobile:
 
-    - You need to do the procediments of backend
-    - after this, access the project in another terminal (folder mobile)
-    - Run npm install (or only yarn if you will use yarn)
-    - And Run npm start (or yarn start)
-    - after this you need to open a emulator of android or ios (or if you want, you can use your physic cellphone, only download the app expo)
-    - if you be emulator, only press the key 'A'
-    - else you need to enter in app expo and scan the QR CODE
+  - You need to do the procediments of backend
+  - after this, access the project in another terminal (folder mobile)
+  - Run npm install (or only yarn if you will use yarn)
+  - And Run npm start (or yarn start)
+  - after this you need to open a emulator of android or ios (or if you want,
+    you can use your physic cellphone, only download the app expo)
+  - if you have emulator, only press the key 'A'
+  - else you need to enter in app expo and scan the QR CODE
+
+### How I can contribute ?
+
+    First, please, give a star :star: in project and after this fork this project
 
 ## :bust_in_silhouette: About me:
 
