@@ -57,6 +57,7 @@ export const Container = styled.main`
         width: 90%;
         border-radius: 10px;
         box-shadow: 1px 1px 3px #9f9f9f;
+        background-color: #fff;
     }
 
     li > strong {
