@@ -1,17 +1,19 @@
 ![logo@3x](https://user-images.githubusercontent.com/45046288/77839744-d18c1980-7155-11ea-9769-bd8009f8ad73.png)
 
 https://img.shields.io/github/license/GustavoSMelo/BeTheHero?style=for-the-badge
+
 https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js
+
 https://img.shields.io/badge/Frontend-ReactJS-blue?style=for-the-badge&logo=react
+
 https://img.shields.io/badge/Mobile-React%20Native-9cf?style=for-the-badge&logo=react
+
 https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge
 
 # :iphone: Mobile screens:
 
 ![SplashScreen](https://user-images.githubusercontent.com/45046288/77839936-f8e3e600-7157-11ea-837c-17590d71753f.jpg)
-
 ![MainScreen](https://user-images.githubusercontent.com/45046288/77839942-0bf6b600-7158-11ea-9713-55426a834bd4.jpg)
-
 ![DetailScreen](https://user-images.githubusercontent.com/45046288/77839956-36487380-7158-11ea-8136-b671dd906d7a.jpg)
 
 # :computer: Web screens:
@@ -26,17 +28,19 @@ https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge
 
 ## :memo: About this project:
 
-    This project maked to help ONGs to find peoples(Heroes) that would like to help in incidents that need a hero, In web version of this application, is redirect for ONGs add incidents that need help
-    And the version mobile of this application is redirect to peoples that would like to help, and enter in contact with the ONG
+    This project maked to help ONGs to find peoples(Heroes)
+    that would like to help in incidents that need a hero,
+    In web version of this application, is redirect for ONGs add incidents that need help
+    And the version mobile of this application
+    is redirect to peoples that would like to help, and enter in contact with the ONG
 
-    This project will be do in week OmniStack :rocket:, Driven by the lord jedi Diego Fernandes of Rocketseat
+    This project will be do in week OmniStack, Driven by the lord jedi Diego Fernandes of Rocketseat
 
 ## :rocket: Techs useds in this project:
 
 | Backend | FrontEnd | Mobile       | Tests | Database | Validation |
 | ------- | -------- | ------------ | ----- | -------- | ---------- |
 | NodeJS  | ReactJS  | React Native | Jest  | SQLite   | Celebrate  |
-|         |          |              |       |          |            |
 
 ## How I Run this project ?
 
@@ -69,11 +73,11 @@ https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge
 
 ### How I can contribute ?
 
-    First, please, give a star :star: in project and after this fork this project
+    First, please, give a star  in project and after this fork this project
 
 ## :bust_in_silhouette: About me:
 
-    I am a simple developer that love study :books: and play video games :video_game:
+    I am a simple developer that love study and play video games
     if you want to enter in contact with me:
 
     :email: Email: gsantos15569@gmail.com
