@@ -1,14 +1,10 @@
 ![logo@3x](https://user-images.githubusercontent.com/45046288/77839744-d18c1980-7155-11ea-9769-bd8009f8ad73.png)
 
-https://img.shields.io/github/license/GustavoSMelo/BeTheHero?style=for-the-badge
-
-https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js
-
-https://img.shields.io/badge/Frontend-ReactJS-blue?style=for-the-badge&logo=react
-
-https://img.shields.io/badge/Mobile-React%20Native-9cf?style=for-the-badge&logo=react
-
-https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge
+![](https://img.shields.io/github/license/GustavoSMelo/BeTheHero?style=for-the-badge)
+![](https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/Frontend-ReactJS-blue?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Mobile-React%20Native-9cf?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge)
 
 # :iphone: Mobile screens:
 
@@ -80,7 +76,7 @@ https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge
     I am a simple developer that love study and play video games
     if you want to enter in contact with me:
 
-    :email: Email: gsantos15569@gmail.com
-    :office: Linkedin: https://www.linkedin.com/in/gustavo-santos-melo-66092317a/
+    Email: gsantos15569@gmail.com
+    Linkedin: https://www.linkedin.com/in/gustavo-santos-melo-66092317a/
 
 # Make with Love :heartbeat: Gustavo S. Melo
