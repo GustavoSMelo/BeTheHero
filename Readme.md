@@ -1,5 +1,5 @@
 <p text-align='center'>
-    <img  src='https://user-images.githubusercontent.com/45046288/77839744-d18c1980-7155-11ea-9769-bd8009f8ad73.png'/>
+    <img alig='center' src='https://user-images.githubusercontent.com/45046288/77839744-d18c1980-7155-11ea-9769-bd8009f8ad73.png'/>
 </p>
 
 ![](https://img.shields.io/github/license/GustavoSMelo/BeTheHero?style=for-the-badge)
