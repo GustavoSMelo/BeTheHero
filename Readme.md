@@ -20,7 +20,7 @@
 
 ![RegistreONGView](https://user-images.githubusercontent.com/45046288/77839976-73146a80-7158-11ea-9c43-96710d9263ac.png)
 
-![HomeView](https://user-images.githubusercontent.com/45046288/77839979-7b6ca580-7158-11ea-968f-1db3c840a6ea.png)
+![HomeView](https://user-images.githubusercontent.com/45046288/77840735-110c3300-7161-11ea-8b5b-9fb832d0bf85.png)
 
 ![RegistreONGView](https://user-images.githubusercontent.com/45046288/77839981-8293b380-7158-11ea-8a70-457146fc9da1.png)
 
