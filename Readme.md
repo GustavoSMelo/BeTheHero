@@ -32,7 +32,7 @@
     And the version mobile of this application
     is redirect to peoples that would like to help, and enter in contact with the ONG
 
-    This project will be do in week OmniStack, Driven by the lord jedi Diego Fernandes of Rocketseat
+    This project did in week OmniStack, Driven by the lord jedi Diego Fernandes of Rocketseat
 
 ## :rocket: Techs useds in this project:
 
@@ -69,7 +69,7 @@
   - if you have emulator, only press the key 'A'
   - else you need to enter in app expo and scan the QR CODE
 
-### How I can contribute ?
+### How can I contribute ?
 
     First, please, give a star  in project and after this fork this project
 
